@@ -1,3 +1,3 @@
 # ExpenseTracker
-Simple expense tracker I made to run in the command line
+I created a simple expense tracker to run in the terminal. 
 https://roadmap.sh/projects/expense-tracker
